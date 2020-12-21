@@ -18,3 +18,7 @@ Generally speaking, I’m exclusively using Git CLI because I’ve witnessed peo
 ## How to Contribute
 
 Generally speaking, I’m exclusively using Git CLI because I’ve witnessed people who insist on using GUI frontends seem to stagnate on the Git learning curve.
+
+### Copyright
+
+2020 Johnny Cage
