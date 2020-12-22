@@ -22,3 +22,4 @@ Generally speaking, I’m exclusively using Git CLI because I’ve witnessed peo
 ### Copyright
 
 2020 Johnny Cage
+All rights reserved
